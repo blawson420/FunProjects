@@ -1,0 +1,12 @@
+/Users/Blake/Documents/GitHub/FunProjects/test_project/IntroLibrary/bin/Debug/net5.0/IntroLibrary.deps.json
+/Users/Blake/Documents/GitHub/FunProjects/test_project/IntroLibrary/bin/Debug/net5.0/IntroLibrary.dll
+/Users/Blake/Documents/GitHub/FunProjects/test_project/IntroLibrary/bin/Debug/net5.0/ref/IntroLibrary.dll
+/Users/Blake/Documents/GitHub/FunProjects/test_project/IntroLibrary/bin/Debug/net5.0/IntroLibrary.pdb
+/Users/Blake/Documents/GitHub/FunProjects/test_project/IntroLibrary/obj/Debug/net5.0/IntroLibrary.csproj.AssemblyReference.cache
+/Users/Blake/Documents/GitHub/FunProjects/test_project/IntroLibrary/obj/Debug/net5.0/IntroLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Blake/Documents/GitHub/FunProjects/test_project/IntroLibrary/obj/Debug/net5.0/IntroLibrary.AssemblyInfoInputs.cache
+/Users/Blake/Documents/GitHub/FunProjects/test_project/IntroLibrary/obj/Debug/net5.0/IntroLibrary.AssemblyInfo.cs
+/Users/Blake/Documents/GitHub/FunProjects/test_project/IntroLibrary/obj/Debug/net5.0/IntroLibrary.csproj.CoreCompileInputs.cache
+/Users/Blake/Documents/GitHub/FunProjects/test_project/IntroLibrary/obj/Debug/net5.0/IntroLibrary.dll
+/Users/Blake/Documents/GitHub/FunProjects/test_project/IntroLibrary/obj/Debug/net5.0/ref/IntroLibrary.dll
+/Users/Blake/Documents/GitHub/FunProjects/test_project/IntroLibrary/obj/Debug/net5.0/IntroLibrary.pdb
