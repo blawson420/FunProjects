@@ -1,0 +1,12 @@
+/Users/Blake/Documents/GitHub/FunProjects/testlibrary/bin/Debug/net5.0/testlibrary.deps.json
+/Users/Blake/Documents/GitHub/FunProjects/testlibrary/bin/Debug/net5.0/testlibrary.dll
+/Users/Blake/Documents/GitHub/FunProjects/testlibrary/bin/Debug/net5.0/ref/testlibrary.dll
+/Users/Blake/Documents/GitHub/FunProjects/testlibrary/bin/Debug/net5.0/testlibrary.pdb
+/Users/Blake/Documents/GitHub/FunProjects/testlibrary/obj/Debug/net5.0/testlibrary.csproj.AssemblyReference.cache
+/Users/Blake/Documents/GitHub/FunProjects/testlibrary/obj/Debug/net5.0/testlibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Blake/Documents/GitHub/FunProjects/testlibrary/obj/Debug/net5.0/testlibrary.AssemblyInfoInputs.cache
+/Users/Blake/Documents/GitHub/FunProjects/testlibrary/obj/Debug/net5.0/testlibrary.AssemblyInfo.cs
+/Users/Blake/Documents/GitHub/FunProjects/testlibrary/obj/Debug/net5.0/testlibrary.csproj.CoreCompileInputs.cache
+/Users/Blake/Documents/GitHub/FunProjects/testlibrary/obj/Debug/net5.0/testlibrary.dll
+/Users/Blake/Documents/GitHub/FunProjects/testlibrary/obj/Debug/net5.0/ref/testlibrary.dll
+/Users/Blake/Documents/GitHub/FunProjects/testlibrary/obj/Debug/net5.0/testlibrary.pdb
